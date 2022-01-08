@@ -55,7 +55,7 @@ https://www.researchgate.net/publication/283715367_Synthetic_Control_Method_vers
 
 # References
 * Abadie, A., Diamond, A., & Hainmueller, J. (2010). Synthetic control methods for comparative case studies: Estimating the effect of California’s tobacco control program. Journal of the American statistical Association, 105(490), 493-505. Code in Matlab and R available here: https://web.stanford.edu/~jhain/synthpage.html 
-
 * Valero, R. (2015). Synthetic control method versus standard statistic techniques a comparison for labor market reforms. 
 https://www.researchgate.net/publication/283715367_Synthetic_Control_Method_versus_Standard_Statistical_Techniques_a_Comparison_for_Labor_Market_Reforms
 * Valero, R. (2017). Essays on Sparse-Grids and Statistical-Learning Methods in Economics. https://rua.ua.es/dspace/bitstream/10045/71368/1/tesis_rafael_valero_fernandez.pdf 
+* Valero-Fernandez, Rafael. (2017). Effects from the implementation of the European Road Safety Action Program using Synthetic Control Methods and Interactive Effects using Counterfactual Approaches. https://doi.org/10.5281/zenodo.5830821
