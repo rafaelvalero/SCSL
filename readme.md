@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/129643770.svg)](https://zenodo.org/badge/latestdoi/129643770)
 
 
 # SCSL
