@@ -55,3 +55,5 @@ Files:
 * Valero-Fernandez, Rafael. (2017a). Effects from the implementation of the European Road Safety Action Program using Synthetic Control Methods and Interactive Effects using Counterfactual Approaches. https://doi.org/10.5281/zenodo.5830821
 * Valero, R. (2017b). Essays on Sparse-Grids and Statistical-Learning Methods in Economics. https://rua.ua.es/dspace/bitstream/10045/71368/1/tesis_rafael_valero_fernandez.pdf 
 
+
+You could cite this like: Rafael Valero Fernández. (2022). rafaelvalero/SCSL: Adding Road Safety example (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5830838
