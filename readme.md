@@ -45,7 +45,7 @@ Files:
     
     1. OLS_EST.m: This function implements OLS.
 
-    2. SLSC.m: This function use lasso with cross-validation as in Valero 2015 and 2017.
+    2. SLSC.m: This function use lasso with cross-validation as in Valero 2015, 2017a and 2017b.
  
 
 # References
